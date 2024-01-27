@@ -134,10 +134,12 @@
 
 }
 .button-box_text{
-    font: var(--fnt,var(--font_5));
+    font: var(--fnt,var(--font_6));
     text-decoration: none;
     color: #00aef3;
     transition: color 0.5s;
+    font-weight: bold;
+    font-size: 20px;
 }
 .button-box_text:hover{
     color: #9a9a9a;
